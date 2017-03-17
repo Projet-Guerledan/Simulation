@@ -80,7 +80,8 @@ def div(a,b):
 	A=[a[0]/b,a[1]/b]
 	return A
 
-#Algorithme de controle "GangBang"( Vla le nom quoi XD) (Sujet a amelioration : ie ajout d'un PID)
+#Algorithme de controle "Bang 
+#TODO ajout d'un PID)
 #Renvoie U=[u1,u2]
 
 def control(e,de):
