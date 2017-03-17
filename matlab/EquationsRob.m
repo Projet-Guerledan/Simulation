@@ -84,7 +84,7 @@ plot(t,V);
 title('V(t)')
 
 figure
-img2=imread('C:\Users\Zacharie\Documents\MATLAB\Modélisation Guerlédan\Guerledan.png');
+img2=imread('Guerledan.png');
 img=imresize(img2,2);
 imshow(img);
 title('Trajectoire')
